@@ -1,0 +1,11 @@
+/Users/user/Projects/week3/week3/obj/Debug/netcoreapp2.1/week3.csprojAssemblyReference.cache
+/Users/user/Projects/week3/week3/obj/Debug/netcoreapp2.1/week3.csproj.CoreCompileInputs.cache
+/Users/user/Projects/week3/week3/obj/Debug/netcoreapp2.1/week3.AssemblyInfoInputs.cache
+/Users/user/Projects/week3/week3/obj/Debug/netcoreapp2.1/week3.AssemblyInfo.cs
+/Users/user/Projects/week3/week3/bin/Debug/netcoreapp2.1/week3.deps.json
+/Users/user/Projects/week3/week3/bin/Debug/netcoreapp2.1/week3.runtimeconfig.json
+/Users/user/Projects/week3/week3/bin/Debug/netcoreapp2.1/week3.runtimeconfig.dev.json
+/Users/user/Projects/week3/week3/bin/Debug/netcoreapp2.1/week3.dll
+/Users/user/Projects/week3/week3/bin/Debug/netcoreapp2.1/week3.pdb
+/Users/user/Projects/week3/week3/obj/Debug/netcoreapp2.1/week3.dll
+/Users/user/Projects/week3/week3/obj/Debug/netcoreapp2.1/week3.pdb
